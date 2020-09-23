@@ -22,7 +22,7 @@
 
     		<div class="row">
     		
-			 	<div class="card float-left card_first px-0 my-2 column-1 mr-4">
+			 	<div class="card float-left card_first px-0 my-2 column-1 mx-4">
 			    	<img class="card-img-top" src="<?=$url?>/assets/img/vaquita.jpg" alt="Card image cap">
 				    <div class="card-img-overlay">
 				      <h5 class="card-title text-white text-center card-text">Vaquita</h5>
@@ -34,7 +34,7 @@
 				      <h5 class="card-title text-white text-center card-text">Baleia-Azul</h5>
 				    </div>
 				</div>
-				<div class="card float-left px-0 my-2 card_third column-1 mx-4">
+				<div class="card float-left px-0 my-2 column-1 mx-4 card_third">
 				    <img class="card-img-top" src="<?=$url?>/assets/img/peixe-boi.jpg" alt="Card image cap">
 				    <div class="card-img-overlay">
 				      <h5 class="card-title text-white text-center card-text">Peixe-Boi Marinho</h5>

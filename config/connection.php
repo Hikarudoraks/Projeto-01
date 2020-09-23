@@ -9,7 +9,7 @@
 **/
 
 $config = array(
-	'dsn'      => 'mysql:dbname=projeto-01;host=127.0.0.1',
+	'dsn'      => 'mysql:dbname=ricardo-alexandre;host=127.0.0.1',
 	'username' => 'root',
 	'password' => null
 );

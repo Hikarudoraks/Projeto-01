@@ -20,6 +20,7 @@
 		<link rel="stylesheet" type="text/css" href="<?= $url; ?>/assets/css/site/layout.css">
 		<link rel="stylesheet" type="text/css" href="<?= $url; ?>/assets/css/site/home.css">
 		<link rel="stylesheet" type="text/css" href="<?= $url; ?>/assets/css/site/contact.css">
+		<link rel="stylesheet" type="text/css" href="<?= $url; ?>/assets/css/site/quem_somos.css">
 		<link rel="shortcut icon" href="<?=$url?>/assets/img/favicon.ico" />
 	</head>
 	<body>
